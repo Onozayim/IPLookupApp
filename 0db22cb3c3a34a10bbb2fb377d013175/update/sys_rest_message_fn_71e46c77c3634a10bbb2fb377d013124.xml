@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>GETCountry</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>IPInfo [ GETCountry ]</qualified_name>
+        <rest_endpoint>https://ipinfo.io/${ipaddress}/country</rest_endpoint>
+        <rest_message display_value="IPInfo">79c268f3c3a34a10bbb2fb377d01318c</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-28 22:26:35</sys_created_on>
+        <sys_id>71e46c77c3634a10bbb2fb377d013124</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GETCountry</sys_name>
+        <sys_package display_value="IP Lookup" source="x_1469243_ip_looku">0db22cb3c3a34a10bbb2fb377d013175</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Lookup">0db22cb3c3a34a10bbb2fb377d013175</sys_scope>
+        <sys_update_name>sys_rest_message_fn_71e46c77c3634a10bbb2fb377d013124</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-28 22:26:35</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>
